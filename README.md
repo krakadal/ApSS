@@ -44,6 +44,7 @@ Ensure all dependencies are installed.
 
 Run the Organism
 Bash
-python apss.py
+python apss.py<img width="1165" height="900" alt="apss" src="https://github.com/user-attachments/assets/d5ae9c1b-87e5-499b-ada3-4906e3f4dc02" />
+
 ⚠️ Security Disclaimer
 EXPERIMENTAL SOFTWARE. This project is a cryptographic Proof-of-Concept. While it uses industry-standard primitives (ChaCha20, HKDF, SHA-256), the overall architecture is experimental. Do not use this for securing high-value assets, life savings, or production environments.
