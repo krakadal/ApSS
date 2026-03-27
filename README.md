@@ -1,6 +1,7 @@
 # 🧬 Ap.S.S. (Apoptotic Security System) v17.0
 
 > **A Biologically-Inspired Cryptographic Vault with Autonomous Self-Destruction.**
+<img width="1165" height="900" alt="apss" src="https://github.com/user-attachments/assets/9789cf0c-6628-4a3d-a393-48d6c9584e81" />
 
 Ap.S.S. is an experimental security enclave that treats data protection as a biological survival challenge. Unlike passive encryption tools, Ap.S.S. possesses a digital "metabolism" and an aggressive immune system designed to terminate the organism (and the data) before a breach occurs.
 
