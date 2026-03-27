@@ -1,0 +1,31 @@
+# =================================================================
+# Ap.S.S. (Apoptotic Security System) - GIT IGNORE RULES
+# =================================================================
+
+# 1. Cryptographic Secrets (SECURITY CRITICAL)
+# Никога не качвай тези файлове! Те съдържат твоите ключове и ДНК.
+organism.json
+organism.dead
+
+# 2. Neural Brain States (Local Weights)
+# Тези файлове са специфични за твоята машина и се генерират при старт.
+*.pth
+left_hemisphere.pth
+right_hemisphere.pth
+
+# 3. Python Environment & Cache
+# Излишни системни файлове, които само пълнят хранилището.
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.env
+
+# 4. OS & IDE Specific Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
